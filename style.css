@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(90deg, hsla(213, 77%, 14%, 1) 0%, hsla(201, 27%, 31%, 1) 100%);
+  color: #fff;
+  font-family: Raleway;
+  margin: 15px 15px;
+}
+
+header {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+#count {
+  font-family: Anta;
+  font-size: 22em;
+  padding: 10px 15px;
+  margin: 10px 15px;
+}
+
+.btnContainer {
+  padding: 10px 15px;
+}
+
+#decreaseBtn,
+#resetBtn,
+#increaseBtn {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 15px;
+  font-family: Raleway;
+  margin: 12px 15px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 0 lightgrey;
+}
+
+#decreaseBtn:hover,
+#resetBtn:hover,
+#increaseBtn:hover {
+  font-size: 0.90em;
+}
+
+
+
+p a {
+  text-decoration: none;
+  color: #0ef;
+}
+
+p {
+  text-align: center;
+  font-weight: 500;
+}
